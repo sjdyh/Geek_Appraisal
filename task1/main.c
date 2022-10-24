@@ -5,7 +5,7 @@ int main()
 	printf("please enter the initial value a= ");
 	scanf("%lf", &a);
 	double x = 0, y1 = a, dy_dx = -a, y2 = a - 1, y = a;
-	for (int i = 0; y1 - y2 > 0.001 * h; i++)
+	for (int i = 0; x<25; i++)
 	{
 		y1 = y;
 		dy_dx = -y1;
