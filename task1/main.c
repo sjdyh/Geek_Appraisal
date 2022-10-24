@@ -17,4 +17,3 @@ int main()
 	printf("×îÖÕ¶¨Ì¬Îª%f", y);
 	return 0;
 }
-
