@@ -39,10 +39,28 @@
 
 #### 任务要求
 
-&nbsp;&nbsp;&nbsp;&nbsp;对一串给定的英文字符串（只含有ASCII码）进行各个单词的出现频率统计，并根据词频构造哈夫曼树。权值低放左节点，权值高放右节点，并且左节点编码0，右节点编码1，最终将该字符串压缩成一个长度更短的二进制串。
+&nbsp;&nbsp;&nbsp;&nbsp;对一串给定的英文字符串（只含有ASCII码）进行各个字母的出现频率统计，并根据词频构造哈夫曼树。权值低放左节点，权值高放右节点，并且左节点编码0，右节点编码1，最终将该字符串压缩成一个长度更短的二进制串。
 
 #### 学习资料
 
 + [数据压缩与哈夫曼编码](https://www.bilibili.com/video/BV1dE411Z7Zw/?spm_id_from=333.337.search-card.all.click&vd_source=eed252f33e7aee5137cb946b2562f583)
 + [哈夫曼编码](https://blog.csdn.net/qq_19887221/article/details/125322754)
 + [哈夫曼树与哈夫曼编码](https://www.bilibili.com/video/BV1hK4y1k7Wr/?spm_id_from=333.337.search-card.all.click)
+
+***
+
+### 任务三
+#### 任务背景
+
+&nbsp;&nbsp;&nbsp;&nbsp;逻辑门（Logic Gates)是在集成电路(Integrated Circuit)上的基本组件。简单的逻辑门可由晶体管组成。这些晶体管的组合可以使代表两种信号的高低电平在通过它们之后产生高电平或者低电平的信号。高、低电平可以分别代表逻辑上的“真”与“假”或二进制当中的1和0，从而实现逻辑运算。
+
+&nbsp;&nbsp;&nbsp;&nbsp;大部分的逻辑结构都是通过逻辑门来实现的。逻辑门又称“数字逻辑电路基本单元”。执行“或”、“与”、“非”、“或非”、“与非”等逻辑运算的电路。任何复杂的逻辑电路都可由这些逻辑门组成。广泛用于计算机、通信、控制和数字化仪表。
+
+#### 任务要求
+&nbsp;&nbsp;&nbsp;&nbsp;请同学们阅读任务三的[报告模板](./task3/报告模板.md)，从中选择两个题目进行思考并给出思考过程和答案。
+
+#### 学习资料
+
++ [逻辑门的种类与符号](https://www.eefocus.com/baike/481031)
++ [真值表](https://www.zhihu.com/question/275618526)
++ [常见七种逻辑门真值表](https://blog.csdn.net/weixin_52487896/article/details/125889966)
